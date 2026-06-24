@@ -3,7 +3,7 @@ import requests
 
 app = Flask(__name__)
 
-TOKEN = "7647411316:AAGGQiygGvkpbKrcD28d01N9AAvAL7p0n7s"
+TOKEN = "8702107448:AAFHHQGb22bJTRfTvuTZZMUIhhywZB6-9VA"
 API_URL = f"https://api.telegram.org/bot{TOKEN}"
 
 
